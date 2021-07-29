@@ -211,17 +211,29 @@
 			git@github.com:escueladigital/EDgrid.git
 
 	- push: 
-		- HEAD apunta a master en local y a origin en remoto
+		- HEAD apunta a master en local y a origin/nameBranch en remoto
 		- Ver a donde apunta el remoto
 			- git remote -v
 
+	- fetch:
+		- Se puede traer info del remoto cuando se cambia en remoto
+			- git pull origin master
 */
 
 
 
 
 // -------------------------------------------------------------------
-/** 
+/** Subir nuestros cambios
+ * Subir otras ramas
+	- git branch newBranchName
+	- git switch newBranchName
+	- git push -u origin newBranchName
+
+ * Eliminar desde local
+	- git branch -D branchName	  <--	Eliminar una rama despues de fusionarla
+ * Eliminar Branch remotas
+	- git push --delete origin newBranchName
 */
 
 
