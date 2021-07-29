@@ -55,19 +55,20 @@
 // -------------------------------------------------------------------
 /** Opciones de git add & git commit
  * git add 
+    -A		<--		Todos los Archivos
 	. 		<--		Todos los archivos en el Current Directory
 
 
 * git commit	<--		Open default editor
 	-m ''		<--		Command line message
-
  
 */
 
 
 
 // -------------------------------------------------------------------
-/** 
+/** Modificando la estructura del proyecto
+ * 
 */
 
 
