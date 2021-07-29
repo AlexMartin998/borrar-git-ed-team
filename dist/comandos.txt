@@ -208,8 +208,12 @@
  * SSH Keys en github
 	- Setting
 		- SSH and GPG keys
-	git@github.com:escueladigital/EDgrid.git
+			git@github.com:escueladigital/EDgrid.git
 
+	- push: 
+		- HEAD apunta a master en local y a origin en remoto
+		- Ver a donde apunta el remoto
+			- git remote -v
 
 */
 
