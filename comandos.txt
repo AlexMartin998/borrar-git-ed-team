@@ -1,0 +1,116 @@
+// -------------------------------------------------------------------
+/** Configuracion de GIT:
+		https://education.github.com/git-cheat-sheet-education.pdf
+ * Vamos a crear una conf. basica de manera global. Se utilizara en todos mis proyectos.
+    - git config --global user.name " "
+    - git config --global user.email " "
+	- git config --list		<-  Ver la config
+
+ * Podriamos establecer Configuraciones por Usuarios 
+*/
+
+
+
+// -------------------------------------------------------------------
+ ** Repositorios:
+	- git init		<--		inicia un repositorio (.git)
+*/	
+
+
+
+// -------------------------------------------------------------------
+/** Estados de GIT
+ * Puede tener 3 estados:
+	1) Espacio de Trabajo
+		- Directorio del Proyecto (.git NO es parte del ET.)
+		- GIT aun no hace seguimiento/tracked
+
+			- git status
+			- git add -A	<--		Mover ∀ los archivos del ET al AP
+
+	2) Area de preparacion
+		
+
+	2) Repositorio (.git)
+*/
+
+
+
+// -------------------------------------------------------------------
+/** Nuestro 1er Commit
+ * Commit: Cada spanshot de nuestro codigo.
+	- git status
+	- git add -A	<--	Podemos especificar archivos en especifico
+*/
+
+
+
+
+
+
+
+
+// -------------------------------------------------------------------
+/** 
+*/
+
+
+
+// -------------------------------------------------------------------
+/** 
+*/
+
+
+
+// -------------------------------------------------------------------
+/** 
+*/
+
+
+
+// -------------------------------------------------------------------
+/** 
+*/
+
+
+
+// -------------------------------------------------------------------
+/** 
+*/
+
+
+
+// -------------------------------------------------------------------
+/** 
+*/
+
+
+
+// -------------------------------------------------------------------
+/** 
+*/
+
+
+
+// -------------------------------------------------------------------
+/** 
+*/
+
+
+
+// -------------------------------------------------------------------
+/** 
+*/
+
+
+
+// -------------------------------------------------------------------
+/** 
+*/
+
+
+
+
+
+
+
