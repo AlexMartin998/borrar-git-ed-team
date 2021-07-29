@@ -26,12 +26,13 @@
 		- GIT aun no hace seguimiento/tracked
 
 			- git status
-			- git add -A	<--		Mover ∀ los archivos del ET al AP
+			
 
 	2) Area de preparacion
-		
+		- git add -A	<--		Mover ∀ los archivos del ET al AP
 
 	2) Repositorio (.git)
+		- git commit -m ''
 */
 
 
@@ -40,7 +41,8 @@
 /** Nuestro 1er Commit
  * Commit: Cada spanshot de nuestro codigo.
 	- git status
-	- git add -A	<--	Podemos especificar archivos en especifico
+	- git add -A		<--	Podemos especificar archivos en especifico
+	- git commit -m ''  <-- Agrega los archivos al Repositorio
 */
 
 
