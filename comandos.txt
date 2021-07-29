@@ -55,7 +55,8 @@
 // -------------------------------------------------------------------
 /** Opciones de git add & git commit
  * git add 
-	- 
+	. 		<--		Todos los archivos
+	
 
  
 */
