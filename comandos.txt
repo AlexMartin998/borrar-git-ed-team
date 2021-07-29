@@ -67,7 +67,9 @@
 
 
 // -------------------------------------------------------------------
-/** Modificando la estructura del proyecto
+/** Archivos nuevos / modificados
+ * Archivos modificados
+	- git commit -am ''		<--		Solo los Modificados
  * 
 */
 
