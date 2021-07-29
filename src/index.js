@@ -32,3 +32,5 @@ class Person {
 const alex = new Person('Alex');
 console.log(alex);
 
+
+
