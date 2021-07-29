@@ -7,10 +7,11 @@ greet('Alex');
 
 
 // // Object
-const User = {
+const user = {
 	name: 'Alex',
 	os: 'Arch Linux',
 	age: 23,
 }
 
-
+console.log(user);
+console.log('Hi');
