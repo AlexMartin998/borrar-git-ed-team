@@ -25,12 +25,13 @@ class Person {
 	}
 
 	greeter() {
-		return `Hellow ${this.name}.`
+		return `Hellow ${this.name}.`;
 	}
 }
 
 const alex = new Person('Alex');
 const moni = new Person('Moni');
+const sam = new Person('Sam');
 
 
 
