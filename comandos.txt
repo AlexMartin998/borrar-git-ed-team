@@ -21,14 +21,13 @@
 // -------------------------------------------------------------------
 /** Estados de GIT
  * Puede tener 3 estados:
-	1) Espacio de Trabajo
-		- Directorio del Proyecto (.git NO es parte del ET.)
+	1) Espacio de Trabajo: Directorio del Proyecto (.git NO es parte del ET.)
 		- GIT aun no hace seguimiento/tracked
 
 			- git status
 			
 
-	2) Area de preparacion
+	2) Area de preparacion: 
 		- git add -A	<--		Mover ∀ los archivos del ET al AP
 
 	2) Repositorio (.git)
@@ -43,6 +42,7 @@
 	- git status
 	- git add -A		<--	Podemos especificar archivos en especifico
 	- git commit -m ''  <-- Agrega los archivos al Repositorio
+	- git log			<--	Muestra los Commits con su Hash/ID
 */
 
 
@@ -53,7 +53,11 @@
 
 
 // -------------------------------------------------------------------
-/** 
+/** Opciones de git add & git commit
+ * git add 
+	- 
+
+ 
 */
 
 
