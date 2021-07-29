@@ -30,5 +30,8 @@ class Person {
 }
 
 const alex = new Person('Alex');
+const moni = new Person('Moni');
+
+
 
 console.log(alex);
