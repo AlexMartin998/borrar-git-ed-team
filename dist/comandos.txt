@@ -232,6 +232,7 @@
 
  * Eliminar desde local
 	- git branch -D branchName	  <--	Eliminar una rama despues de fusionarla
+	
  * Eliminar Branch remotas
 	- git push --delete origin newBranchName
 */
