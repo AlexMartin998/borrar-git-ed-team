@@ -72,7 +72,8 @@
 	- git commit -am ''		<--		Solo los Modificados
 
  * Archivos nuevos
-	- 
+	- git add -A
+	- git commit -m ''
 */
 
 
